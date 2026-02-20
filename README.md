@@ -1,6 +1,6 @@
 # Smartwatch Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on Smartwatch data analysis using real-world
 e-commerce data. The goal of this project is to perform data cleaning,
@@ -13,7 +13,7 @@ Colour - Size
 
 ------------------------------------------------------------------------
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 -   Perform data cleaning and preprocessing
 -   Handle missing values
@@ -23,7 +23,7 @@ Colour - Size
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 -   Python
 -   Pandas
@@ -34,16 +34,16 @@ Colour - Size
 
 ------------------------------------------------------------------------
 
-## 📊 Data Analysis Steps
+##  Data Analysis Steps
 
-### 1️⃣ Data Cleaning
+### 1️ Data Cleaning
 
 -   Removed duplicates
 -   Handled missing values
 -   Converted price columns to numeric format
 -   Extracted separate columns for Colour and Size using Regex
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+### 2️ Exploratory Data Analysis (EDA)
 
 #### 🔹 Univariate Analysis
 
@@ -66,7 +66,7 @@ Colour - Size
 
 ------------------------------------------------------------------------
 
-## 📈 Outlier Detection
+##  Outlier Detection
 
 IQR Formula: IQR = Q3 - Q1
 
@@ -78,7 +78,7 @@ Outliers are values below the lower bound or above the upper bound.
 
 ------------------------------------------------------------------------
 
-## 🔍 Key Insights
+##  Key Insights
 
 -   Most smartwatches are budget-friendly.
 -   High discounts do not always guarantee high ratings.
@@ -87,7 +87,7 @@ Outliers are values below the lower bound or above the upper bound.
 
 ------------------------------------------------------------------------
 
-## 💼 Business Recommendations
+##  Business Recommendations
 
 -   Focus on competitive pricing in the budget segment, as most
     customers prefer affordable smartwatches.
@@ -101,7 +101,7 @@ Outliers are values below the lower bound or above the upper bound.
 
 ------------------------------------------------------------------------
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -115,7 +115,7 @@ Through this project, I learned:
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 -   Build a machine learning model to predict product ratings.
 -   Perform sentiment analysis on customer reviews.
@@ -125,7 +125,7 @@ Through this project, I learned:
 
 -----------------------------------------------------------------------
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates strong understanding of: - Data Cleaning -
 Data Visualization - Statistical Analysis - Business Insight Generation
